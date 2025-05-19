@@ -1,0 +1,42 @@
+##1
+# dist = math.dist(lmp,pygame.mouse.get_pos())
+# anglex = pygame.mouse.get_pos()[0]-lmp[0]
+# angley = pygame.mouse.get_pos()[1]-lmp[1]
+# print(anglex,'###',angley)
+
+##2
+# if  done == 2:
+#     done+=1
+#     # points.append(square(pygame.mouse.get_pos()[0]+b,pygame.mouse.get_pos()[1]+b,125,125))
+# if  done == 3:
+#     done+=1
+#     # points.append(square(pygame.mouse.get_pos()[0]+c,pygame.mouse.get_pos()[1]+c,100,100))
+# if  done == 4:
+#     done+=1
+#     points.append(square(pygame.mouse.get_pos()[0]+d,pygame.mouse.get_pos()[1]+d,75,75))
+# if done == 5:
+#     done+=1
+#     # points.append(square(pygame.mouse.get_pos()[0]+e,pygame.mouse.get_pos()[1]+e,50,50))
+# if done == 6:
+#     done+=1
+#     points.append(square(pygame.mouse.get_pos()[0]+f,pygame.mouse.get_pos()[1]+f,25,25))
+# if done == 7:
+#     done=1
+#     points.append(square(pygame.mouse.get_pos()[0]+g,pygame.mouse.get_pos()[1]+g,5,5))
+# # if done == 8:
+# #     done+=1
+# #     points.append(square(pygame.mouse.get_pos()[0]+g,pygame.mouse.get_pos()[1]+g,0,0))
+# # if done == 9:
+# #     done+=1
+# #     points.append(square(pygame.mouse.get_pos()[0]+g,pygame.mouse.get_pos()[1]+g,0,0))
+# # if done == 10:
+# #     done+=1
+# #     points.append(square(pygame.mouse.get_pos()[0]+g,pygame.mouse.get_pos()[1]+g,0,0))
+
+##3
+# if count > 1:
+#      ##1
+#      for i in points:
+#          for j in i.points:
+#              j.x-=((i.thepoint.x-j.x))/1000
+#              j.y-=((i.thepoint.y-j.y))/1000
